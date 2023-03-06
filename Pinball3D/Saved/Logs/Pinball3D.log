@@ -6389,3 +6389,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.06-11.29.47:665][751]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.03.06-11.29.47:665][751]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2023.03.06-11.29.49:413][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.06-11.32.02:458][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.03.06-11.32.35:565][594]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2023.03.06-11.32.35:565][594]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompileeditor -project=D:/GitHub/Pinball-3D/Pinball3D/ -install=C:/Users/maria/Downloads/Pinball3D.zip
+[2023.03.06-11.32.37:315][601]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2023.03.06-11.32.37:315][601]UATHelper: Zip Project Task (Windows): Project directory: D:\GitHub\Pinball-3D\Pinball3D
+[2023.03.06-11.32.37:315][601]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/maria/Downloads/Pinball3D.zip
+[2023.03.06-11.32.37:315][601]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2023.03.06-11.33.28:073][843]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2023.03.06-11.33.28:073][843]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2023.03.06-11.33.28:100][844]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
