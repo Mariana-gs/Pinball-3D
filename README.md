@@ -5,8 +5,9 @@ Esse pinball troca a cor da bola quando ela cair no buraco, e as bolas coloridas
 de suas respectivas cores.
 
 <div align="center">
+ 
+![Pinball](https://github.com/Mariana-gs/Pinball-3D/assets/81964220/32902600-c7cf-4b89-a7fd-23900af276ea)
 
-![Pinball](https://github.com/Mariana-gs/Pinball-3D/assets/81964220/66913692-7532-48bd-b80b-b2fc365e8d0c)
 
 </div>
 
